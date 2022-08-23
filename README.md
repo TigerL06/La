@@ -21,9 +21,13 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
-
+| 1    |     muss            |  Fuktionale Anforderung   | Als ein Spieler möchte ich eine Zahl eingeben, damit ich gewinne |
+| 2  |  muss |   Randanforderung   | Als Lehrer möchte ich das alle Anforderungen erfüllt werden, damit ich es bewerten kann |
+| 3 |  musss | Qualitätsanforderung | Als Programmierer möchte ich das die Zufallszahl nicht erkennbar ist, damit man auch raten muss |
+| 4 |         |       |
+| 5 |      |       |
+| 6 |        |        |
+| 7 |         |          |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
