@@ -3,11 +3,11 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+✍️ Ihr Gruppenname, Koch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|   23.08.2022    | 0.0.1   | Wir haben mit dem Projekt gestarrtet und haben die ersten Informationen gesammelt. Dazu haben wir noch das Projekt geplant.|
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -15,7 +15,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+✍️ Wir müssen auf C# einen Zufallsgenerator programmieren, in dem die Zufallszahl erraten werden kann.
 
 ### 1.2 User Stories
 
