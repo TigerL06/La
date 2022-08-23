@@ -7,7 +7,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   23.08.2022    | 0.0.1   | Wir haben mit dem Projekt gestarrtet und haben die ersten Informationen gesammelt. Dazu haben wir noch das Projekt geplant.|
+|   23.08.2022    | 0.0.1   | Wir haben mit dem Projekt gestarrtet, ich habe die User Stories und Testfälle fertig. Die Plannung noch nicht ganz.|
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -35,11 +35,12 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  Ich möchte eine zufàllige Zahl generiernen |   Programm starten  | Das Programm hat eine Zahl generiert die ich nicht kenne  |
-| 2.1  | Ich möchte eine Zahl eingeben   | Eine Zahl |  Zahl wird eingelesen |
-|3.1| Ich möchte wissen ob meine Zahl korrekt oder falsch ist | Programm vergleicht die Zahlen| Antwort: richtig oder falsch |
-|4.1||||
-|||||
+| 1.1  |  Ich möchte eine zufällige Zahl generiernen |   Programm starten  | Das Programm hat eine Zahl generiert die ich nicht kenne  |
+|2.1| Ich möchte das die Zufallszahl nicht sichtbar ist| Programm verdeckt die Zahl | Die Zahl wird nicht angezeigt |
+| 3.1  | Ich möchte eine Zahl eingeben   | Eine Zahl |  Zahl wird eingelesen |
+|4.1| Ich möchte wissen ob meine Zahl korrekt oder falsch ist | Programm vergleicht die Zahlen| Antwort: richtig oder falsch |
+|5.1| Ich möchte wissen ob meine Zahl grösser oder kleiner, als die Zufallszahl ist| Programm vergleicht die Zahlen | Antwort: grösser oder kleiner |
+|6.1| Ich möchte wenn ich die Zufallszahl errate wissen wie viele Versuche ich gebraucht habe| Programm liestet die Versuche auf | Aufgeliestete Versuche werden angezeigt |
 |||||
 |||||
 |||||
@@ -55,9 +56,17 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.A  | 30.08.2022    |    Koch       | Ein Zufallsgenerator programmieren   |         45      |
+| 2.A  | 30.08.2022       |           |  Informieren wie ich etwas im Programm verbergen kann        |      20         |
+|2.B|30.08.2022 |Koch| Programmieren, dass Zufallszahl verborgen ist|25|
+|3.A|30.08.2022 | Koch |Informieren wie ich in einem Programm eine Spalte einfügen kann, wo die Spieler ihre Zahl eingeben können|20|
+|3.B|30.08.2022 |Koch|Die Spalte programmieren|25|
+|4.A|06.09.2022|Koch| Informieren wie die Zahl vom Spieler mit der Zufallszahl vergleichen kann |20|
+|4.B|06.09.2022|Koch||25|
+|5.A|06.09.2022|Koch||20|
+|5.B|06.09.2022|Koch||25|
+|6.A|06.09.2022|Koch||20|
+|6.B|06.09.2022|Koch||25|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
