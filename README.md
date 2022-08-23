@@ -25,8 +25,8 @@
 | 2 |  musss | Qualitätsanforderung | Als Spieler möchte ich das die Zufallszahl nicht erkennbar ist, damit man auch raten muss |
 | 3 | muss |  Funktionale Anforderung |Als ein Spieler möchte ich eine Zahl eingeben, damit ich gewinne |
 | 4 | muss | Funktionale Anforderung | Als Spieler möchte ich sehen ob die Zahl falsch oder richtig ist, damit ich weiss wann ich gewonnen habe|
-| 5 | muss    |    Funktionale Anforderung    | Als Spieler möchte ich sehen ob die Zahle die ich eingegeben habe grösser oder kleiner als die Zufallszahl ist, damit ich weiss ob ich sie verkleiner oder vergrösser muss |
-| 6 |         |          ||
+| 5 | muss    |    Funktionale Anforderung    | Als Spieler möchte ich sehen, ob die Zahle die ich eingegeben habe grösser oder kleiner als die Zufallszahl ist, damit ich weiss ob ich sie verkleiner oder vergrösser muss |
+| 6 |    muss     |   Funktionale Anforderung       | Als Spieler möchte ich wenn die Geheimzahl erraten wurde, sollte die Anzahl der Rateversuche ausgegeben werden |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -35,9 +35,15 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
+| 1.1  |  Ich möchte eine zufàllige Zahl generiernen |   Programm starten  | Das Programm hat eine Zahl generiert die ich nicht kenne  |
+| 2.1  | Ich möchte eine Zahl eingeben   | Eine Zahl |  Zahl wird eingelesen |
+|3.1| Ich möchte wissen ob meine Zahl korrekt oder falsch ist | Programm vergleicht die Zahlen| Antwort: richtig oder falsch |
+|4.1||||
+|||||
+|||||
+|||||
+|||||
+|||||
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
