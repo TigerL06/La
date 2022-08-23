@@ -67,7 +67,7 @@
 |5.B|06.09.2022|Koch|Das gelernte programmieren |25|
 |6.A|06.09.2022|Koch| Informieren wie man die Versüche auflistet und anzeigt |20|
 |6.B|06.09.2022|Koch|Das gelernte anwenden|25|
-Total: 
+Total: 270 min.
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
