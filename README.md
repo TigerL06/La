@@ -62,11 +62,11 @@
 |3.A|30.08.2022 | Koch |Informieren wie ich in einem Programm eine Spalte einfügen kann, wo die Spieler ihre Zahl eingeben können|20|
 |3.B|30.08.2022 |Koch|Die Spalte programmieren|25|
 |4.A|06.09.2022|Koch| Informieren wie die Zahl vom Spieler mit der Zufallszahl vergleichen kann |20|
-|4.B|06.09.2022|Koch||25|
-|5.A|06.09.2022|Koch||20|
-|5.B|06.09.2022|Koch||25|
-|6.A|06.09.2022|Koch||20|
-|6.B|06.09.2022|Koch||25|
+|4.B|06.09.2022|Koch| Das gelernte programmieren|25|
+|5.A|06.09.2022|Koch| Informieren wie man die Zahl vom Spieler mit der Zufallszahl vergleicht, ob die Spielerzahl grösser oder kleiner ist |20|
+|5.B|06.09.2022|Koch|Das gelernte programmieren |25|
+|6.A|06.09.2022|Koch| Informieren wie man die Versüche auflistet und anzeigt |20|
+|6.B|06.09.2022|Koch|Das gelernte anwenden|25|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
