@@ -25,8 +25,9 @@
 | 2 |  musss | Qualitätsanforderung | Als Spieler möchte ich das die Zufallszahl nicht erkennbar ist, damit man auch raten muss |
 | 3 | muss |  Funktionale Anforderung |Als ein Spieler möchte ich eine Zahl eingeben, damit ich gewinne |
 | 4 | muss | Funktionale Anforderung | Als Spieler möchte ich sehen ob die Zahl falsch oder richtig ist, damit ich weiss wann ich gewonnen habe|
-| 5 | muss    |    Funktionale Anforderung    | Als Spieler möchte ich sehen, ob die Zahle die ich eingegeben habe grösser oder kleiner als die Zufallszahl ist, damit ich weiss ob ich sie verkleiner oder vergrösser muss |
-| 6 |    muss     |   Funktionale Anforderung       | Als Spieler möchte ich wenn die Geheimzahl erraten wurde, sollte die Anzahl der Rateversuche ausgegeben werden |
+|5|muss|Funktionale Anforderung| Als Spieler möchte ich das Programm sich so lange wiederholt bis ich die Zahl erraten habe, damit ich mehrere Versuche habe|
+| 6 | muss    |    Funktionale Anforderung    | Als Spieler möchte ich sehen, ob die Zahle die ich eingegeben habe grösser oder kleiner als die Zufallszahl ist, damit ich weiss ob ich sie verkleiner oder vergrösser muss |
+| 7 |    muss     |   Funktionale Anforderung       | Als Spieler möchte ich wenn die Geheimzahl erraten wurde, sollte die Anzahl der Rateversuche ausgegeben werden |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
@@ -39,10 +40,9 @@
 |2.1| Ich möchte das die Zufallszahl nicht sichtbar ist| Programm verdeckt die Zahl | Die Zahl wird nicht angezeigt |
 | 3.1  | Ich möchte eine Zahl eingeben   | Eine Zahl |  Zahl wird eingelesen |
 |4.1| Ich möchte wissen ob meine Zahl korrekt oder falsch ist | Programm vergleicht die Zahlen| Antwort: richtig oder falsch |
-|5.1| Ich möchte wissen ob meine Zahl grösser oder kleiner, als die Zufallszahl ist| Programm vergleicht die Zahlen | Antwort: grösser oder kleiner |
-|6.1| Ich möchte wenn ich die Zufallszahl errate wissen wie viele Versuche ich gebraucht habe| Programm liestet die Versuche auf | Aufgeliestete Versuche werden angezeigt |
-|||||
-|||||
+|5.1|Ich möchte eine Schleife generieren|Das Programm wird ausgeführt| Das Programm wird so lange ausgeführt bis man die Zahl erraten hat|
+|6.1| Ich möchte wissen ob meine Zahl grösser oder kleiner, als die Zufallszahl ist| Programm vergleicht die Zahlen | Antwort: grösser oder kleiner |
+|7.1| Ich möchte wenn ich die Zufallszahl errate wissen wie viele Versuche ich gebraucht habe| Programm liestet die Versuche auf | Aufgeliestete Versuche werden angezeigt |
 |||||
 |||||
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -61,12 +61,15 @@
 |2.B|30.08.2022 |Koch| Programmieren, dass Zufallszahl verborgen ist|25|
 |3.A|30.08.2022 | Koch |Informieren wie ich in einem Programm eine Spalte einfügen kann, wo die Spieler ihre Zahl eingeben können|20|
 |3.B|30.08.2022 |Koch|Die Spalte programmieren|25|
-|4.A|06.09.2022|Koch| Informieren wie die Zahl vom Spieler mit der Zufallszahl vergleichen kann |20|
-|4.B|06.09.2022|Koch| Das gelernte programmieren|25|
-|5.A|06.09.2022|Koch| Informieren wie man die Zahl vom Spieler mit der Zufallszahl vergleicht, ob die Spielerzahl grösser oder kleiner ist |20|
-|5.B|06.09.2022|Koch|Das gelernte programmieren |25|
-|6.A|06.09.2022|Koch| Informieren wie man die Versüche auflistet und anzeigt |20|
-|6.B|06.09.2022|Koch|Das gelernte anwenden|25|
+|4.A|30.08.2022|Koch| Informieren wie die Zahl vom Spieler mit der Zufallszahl vergleichen kann |20|
+|4.B|30.08.2022|Koch| Das gelernte programmieren|25|
+|5.A|30.08.2022|Koch|Eine Schleife programmieren| 20 |
+|5.B|30.08.2022|Koch|Sich informieren wie man die Schleife beenden kann, wenn die Zahl erraten worden ist|30|
+|5.C|30.08.2022|Koch|Das gelernte Programmiern|30|
+|6.A|06.09.2022|Koch| Informieren wie man die Zahl vom Spieler mit der Zufallszahl vergleicht, ob die Spielerzahl grösser oder kleiner ist |20|
+|6.B|06.09.2022|Koch|Das gelernte programmieren |25|
+|7.A|06.09.2022|Koch| Informieren wie man die Versüche auflistet und anzeigt |20|
+|7.B|06.09.2022|Koch|Das gelernte anwenden|25|
 Total: 270 min.
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -81,9 +84,14 @@ Total: 270 min.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| 1.A  |  30.08.2022   |   Koch       |       45        |          20         |
+| 2.A |    30.08.2022   |    Koch       |         20      |        5       |
+|2.B | 30.08.2022 |Koch |25|10|
+|3.A| 30.08.2022 |Koch |20|10|
+|3.B| 30.08.2022 |Koch |25|10|
+|4.A| 30.08.2022 |Koch |20|10|
+|4.B| 30.08.2022 |Koch |25|10|
+|5.A| 30.08.2022 |Koch |20|10|
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
