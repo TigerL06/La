@@ -83,14 +83,21 @@ Total: 270 min.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  30.08.2022   |   Koch       |       45        |          20         |
+| 1.A  |  30.08.2022   |   Koch       |       45        |          15oooooooooooo        |
 | 2.A |    30.08.2022   |    Koch       |         20      |        5       |
 |2.B | 30.08.2022 |Koch |25|10|
-|3.A| 30.08.2022 |Koch |20|10|
+|3.A| 30.08.2022 |Koch |20|5|
 |3.B| 30.08.2022 |Koch |25|10|
-|4.A| 30.08.2022 |Koch |20|10|
+|4.A| 30.08.2022 |Koch |20|5|
 |4.B| 30.08.2022 |Koch |25|10|
-|5.A| 30.08.2022 |Koch |20|10|
+|5.A| 30.08.2022 |Koch |20|5|
+|5.B|30.08.2022|Koch|30|10|
+|5.C|30.08.2022|Koch|30|10|
+|6.A|30.08.2022|Koch|20|10|
+|6.B|30.08.2022|Koch|25|10|
+|7.A|30.08.2022|Koch|20|15|
+|7.B|30.08.2022|Koch|25|15|
+
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
