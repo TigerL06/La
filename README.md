@@ -8,7 +8,7 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.08.2022    | 0.0.1   | Wir haben mit dem Projekt gestarrtet, ich habe die User Stories und Testfälle fertig. Die Plannung noch nicht ganz.|
-|       | ...     |                                                              |
+|   30.08.2022    | 0.0.2     |  Ich habe heute nach dem Plan gearbeitet, bin aber schneller voran gekommen und habe das Projekt fast fertig Programmiert.             |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
