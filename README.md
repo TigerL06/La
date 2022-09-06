@@ -102,7 +102,7 @@ Total: 270 min.
 |6.B|30.08.2022|Koch|25|10|
 |7.A|30.08.2022|Koch|20|15|
 |7.B|30.08.2022|Koch|25|15|
-|8.A|06.09.2022|Koch|45|90|
+|8.A|06.09.2022|Koch|45|120|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
