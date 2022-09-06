@@ -9,7 +9,7 @@
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.08.2022    | 0.0.1   | Wir haben mit dem Projekt gestarrtet, ich habe die User Stories und Testfälle fertig. Die Plannung noch nicht ganz.|
 |   30.08.2022    | 0.0.2     |  Ich habe heute nach dem Plan gearbeitet, bin aber schneller voran gekommen und habe das Projekt fast fertig Programmiert.             |
-|06.09.2022|0.0.3| Heute habe ich die letzten User Stories abgeschlossen, das Programm läuft ohne Probleme.|
+|06.09.2022|0.0.3| Heute habe ich die letzten User Stories abgeschlossen und meine Projekt-Dokumenttaion verbessert.|
 |       | 1.0.0   |   |                                                           
 
 ## 1 Informieren
@@ -73,7 +73,7 @@
 |6.B|06.09.2022|Koch|Das Programm so programmieren, dass sie Zahl vergleicht und eine Ausgabe mach. In der dann steht ob sie grösser oder kleiner als die Zufallszahl ist |25|
 |7.A|06.09.2022|Koch| Informieren wie man die Versüche auflistet und anzeigen kann. |20|
 |7.B|06.09.2022|Koch| Das Programm anweisen die Anzahl der Versuche auszugeben.|25|
-|8.A|06.09.2022|Koch|Das Programm so programmieren das es mit einer Fehl eingabe umgehen kann.|
+|8.A|06.09.2022|Koch|Das Programm so programmieren das es mit einer Fehl eingabe umgehen kann.|45|
 Total: 270 min.
 
 
@@ -102,6 +102,7 @@ Total: 270 min.
 |6.B|30.08.2022|Koch|25|10|
 |7.A|30.08.2022|Koch|20|15|
 |7.B|30.08.2022|Koch|25|15|
+|8.A|06.09.2022|Koch|45|90|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
