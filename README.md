@@ -2,8 +2,7 @@
 # Projekt-Dokumentation
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname, Koch
+Liam Gideon Koch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -39,7 +38,6 @@
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  Das Programm ist noch nicht gestartet |   Programm starten  | Geben Sie eine Zahl zwischen 1 und 100 ein: |
-|8.1|Das Programm ist gestartet und bittet um eine Zahl| Eingabe von etwas anderm als einer Zahl|Programm zeigt an das es ein Fehler gab und bittet um eine neue Eingabe|
 |2.1| Programm ist gestartet und bittet um eine Zahl| Zahl | Die Zufallszahl wird nicht angezeigt |
 | 3.1  | Das Programm ist gestartet und bittet um eine Zahl   | Zahl |  Zahl wird angezeigt |
 |4.1|Das Programm ist gestartet und bittet um eine Zahl | Zahl | Antwort: richtig oder falsch |
@@ -104,7 +102,6 @@ Total: 270 min.
 |7.B|30.08.2022|Koch|25|15|
 |8.A|06.09.2022|Koch|45|120|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -112,8 +109,14 @@ Total: 270 min.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  13.09.2022     |          |   Liam Gideon Koch     |
+| 2.1 |   13.09.2022      |          |  Liam Gideon Koch         |
+|3.1| 13.09.2022 ||Liam Gideon Koch   |
+|4.1| 13.09.2022 ||Liam Gideon Koch   |
+|5.1| 13.09.2022 ||Liam Gideon Koch   |
+|6.1| 13.09.2022 ||Liam Gideon Koch   |
+|7.1| 13.09.2022 ||Liam Gideon Koch   |
+|8.1| 13.09.2022 ||Liam Gideon Koch   |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
