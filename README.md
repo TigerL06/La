@@ -132,4 +132,4 @@ Erismann Niclas
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/TigerL06/Lern-Bericht/blob/main/README.md
