@@ -1,7 +1,7 @@
 # La1100
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 Liam Gideon Koch
 
 | Datum | Version | Zusammenfassung                                              |
@@ -15,7 +15,6 @@ Liam Gideon Koch
 
 ### 1.1 Ihr Projekt
 
-✍️ Wir müssen auf C# einen Zufallsgenerator programmieren, in dem die Zufallszahl erraten werden kann.
 
 ### 1.2 User Stories
 
@@ -31,7 +30,7 @@ Liam Gideon Koch
 |8|muss| Funtionale Anforderung | Als Spieler möchte ich, dass das Programm mit einer Fehleingabe umgehen kann, damit es nicht aufhängt.|
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
@@ -80,7 +79,7 @@ Total: 270 min.
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+
 
 ## 4 Realisieren
 
@@ -130,7 +129,6 @@ Das Programm läuft reibungslos und hat alle Testfälle gemeistert.
 
 Erismann Niclas
 ***Einwandfrei***
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
