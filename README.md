@@ -124,7 +124,7 @@ Das Programm läuft reibungslos und hat alle Testfälle gemeistert.
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    | Einwandfrei            |         |                 |                      |
+| I    |           |         |                 |                      |
 | ...  |              |         |                   |                      |
 
 Erismann Niclas
