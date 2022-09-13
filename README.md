@@ -41,7 +41,7 @@ Liam Gideon Koch
 |2.1| Programm ist gestartet und bittet um eine Zahl| Zahl | Die Zufallszahl wird nicht angezeigt |
 | 3.1  | Das Programm ist gestartet und bittet um eine Zahl   | Zahl |  Zahl wird angezeigt |
 |4.1|Das Programm ist gestartet und bittet um eine Zahl | Zahl | Antwort: richtig oder falsch |
-|5.1| Das Programm ist gestartet und eine eine Zahl ist eingebenen worden, Die Zahl ist falsch.| Enter | Antwort: grösser oder kleiner |
+|5.1| Das Programm ist gestartet und eine bittet um eine Zahl| Zahl | Antwort:falsch: grösser oder kleiner |
 |6.1| Das Programm ist gestartet und die eine Zahl ist eingeben worden | Enter | Das Programm läuft weiter|
 |7.1| Das Programm ist schon gestartet worden und man hat die Zufallszahl erraten | Enter | Anzahl Versuche werden angezeigt |
 |8.1|Das Programm ist gestartet und bittet um eine Zahl| Eingabe von etwas anderm als einer Zahl|Programm zeigt an das es ein Fehler gab und bittet um eine neue Eingabe|
@@ -109,16 +109,17 @@ Total: 270 min.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |  13.09.2022     |          |   Liam Gideon Koch     |
-| 2.1 |   13.09.2022      |          |  Liam Gideon Koch         |
-|3.1| 13.09.2022 ||Liam Gideon Koch   |
-|4.1| 13.09.2022 ||Liam Gideon Koch   |
-|5.1| 13.09.2022 ||Liam Gideon Koch   |
-|6.1| 13.09.2022 ||Liam Gideon Koch   |
-|7.1| 13.09.2022 ||Liam Gideon Koch   |
-|8.1| 13.09.2022 ||Liam Gideon Koch   |
+| 1.1  |  13.09.2022     |    Stimmt     |   Liam Gideon Koch     |
+| 2.1 |   13.09.2022      |   Stimmt    |  Liam Gideon Koch         |
+|3.1| 13.09.2022 |Stimmt |Liam Gideon Koch   |
+|4.1| 13.09.2022 |Stimmt |Liam Gideon Koch   |
+|5.1| 13.09.2022 |Stimmt |Liam Gideon Koch   |
+|6.1| 13.09.2022 |Stimmt |Liam Gideon Koch   |
+|7.1| 13.09.2022 |Stimmt |Liam Gideon Koch   |
+|8.1| 13.09.2022 |Stimmt |Liam Gideon Koch   |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+#### Faxit
+Das Programm läuft reibungslos und hat alle Testfälle gemeistert.
 
 ### 5.2 Exploratives Testen
 
