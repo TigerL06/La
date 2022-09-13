@@ -125,9 +125,11 @@ Das Programm läuft reibungslos und hat alle Testfälle gemeistert.
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
+| I    | Einwandfrei            |         |                 |                      |
 | ...  |              |         |                   |                      |
 
+Erismann Niclas
+***Einwandfrei***
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
