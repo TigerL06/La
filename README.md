@@ -9,7 +9,7 @@ Liam Gideon Koch
 |   23.08.2022    | 0.0.1   | Wir haben mit dem Projekt gestarrtet, ich habe die User Stories und Testfälle fertig. Die Plannung noch nicht ganz.|
 |   30.08.2022    | 0.0.2     |  Ich habe heute nach dem Plan gearbeitet, bin aber schneller voran gekommen und habe das Projekt fast fertig Programmiert.             |
 |06.09.2022|0.0.3| Heute habe ich die letzten User Stories abgeschlossen und meine Projekt-Dokumenttaion verbessert.|
-|       | 1.0.0   |   |                                                           
+|   13.09.2022    | 0.0.3   |  Ich habe meine Projektdokumentation fertig gestellt und einen Lernbericht geschrieben. |                                                           
 
 ## 1 Informieren
 
@@ -100,7 +100,7 @@ Total: 270 min.
 |7.A|30.08.2022|Koch|20|15|
 |7.B|30.08.2022|Koch|25|15|
 |8.A|06.09.2022|Koch|45|120|
-
+Total: 255 min.
 
 ## 5 Kontrollieren
 
